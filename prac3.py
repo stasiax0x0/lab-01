@@ -1,0 +1,6 @@
+name = input("What's your name? ")
+age = input("How old are you? ")
+studentid = input("What's your student number? ")
+print("Name: " + name)
+print("Age: " + age)
+print("Student number: " + studentid)
